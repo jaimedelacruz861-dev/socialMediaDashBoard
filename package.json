@@ -18,6 +18,35 @@
   },
   "homepage": "https://github.com/jaimedelacruz861-dev/socialMediaDashBoard#readme",
   "devDependencies": {
+    "gulp-dart-sass": "^1.1.0",
     "sass": "^1.93.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "autoprefixer": "^10.4.21",
+    "braces": "^3.0.3",
+    "browser-sync": "^3.0.4",
+    "chokidar": "^4.0.3",
+    "css": "^3.0.0",
+    "cssnano": "^7.1.1",
+    "dart-sass": "^1.25.0",
+    "detect-libc": "^1.0.3",
+    "fill-range": "^7.1.1",
+    "gulp": "^5.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-terser": "^2.1.0",
+    "immutable": "^5.1.4",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "micromatch": "^4.0.8",
+    "node-addon-api": "^7.1.1",
+    "picomatch": "^2.3.1",
+    "post": "^0.0.1",
+    "readdirp": "^4.1.2",
+    "source-map-js": "^1.2.1",
+    "to-regex-range": "^5.0.1"
   }
 }
